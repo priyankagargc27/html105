@@ -8,9 +8,9 @@
 html {
     box-sizing: border-box;
 }
-body
-{
-    background-color: = red;
+header{
+    text-align:center;
+    
 }
 nav {
     background-color: orange;
@@ -23,3 +23,4 @@ nav {
     font-family: "Arial", "Halvestica", "sans-serif";
 
 }
+
