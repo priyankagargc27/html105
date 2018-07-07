@@ -8,19 +8,32 @@
 html {
     box-sizing: border-box;
 }
-header{
+h1{
+    text-emphasis-color: red;
     text-align:center;
-    
+
+}
+h3{
+    color:rgb(50, 205, 97);
+    border: 1px solid black;
 }
 nav {
-    background-color: orange;
+    background-color:palevioletred;
     display: flex;
     display: -webkit-flex;
     width: 100%;
     flex-wrap: wrap;
     justify-content: center;
-    padding: .2em;
-    font-family: "Arial", "Halvestica", "sans-serif";
+    padding: .1em;
+    margin:1px;
 
+}
+.img-congress
+{
+    width:100%;
+    height:auto;
+    overflow:hidden;
+    border-radius:8px;
+    
 }
 
